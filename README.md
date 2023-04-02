@@ -1,6 +1,6 @@
 ![logo](https://github.com/pranitsawant80/pranitsawant80/blob/main/Bannerfile.jpg)
 <h1 align="center">Hi 👋, I'm Pranit Sawant</h1>
-<h3 align="center">A aspiring Data Scientist form India.</h3>
+<h3 align="center">An aspiring Data Scientist form India.</h3>
 
 <img src="https://user-images.githubusercontent.com/94974771/229355947-bf68b0ec-6cd1-43ec-969a-5df7797efd79.png" align="right" alt="image" style="width:250px;height:250px;">
 
