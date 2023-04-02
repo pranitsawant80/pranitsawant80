@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pranit Sawant</h1>
 <h3 align="center">A aspiring Data Scientist form India.</h3>
 
-<img align="right" alt="coding"width="200" src="![image](https://user-images.githubusercontent.com/94974771/229355947-bf68b0ec-6cd1-43ec-969a-5df7797efd79.png)">
+<img align="right" alt="coding" width="200" src="![image](https://user-images.githubusercontent.com/94974771/229355947-bf68b0ec-6cd1-43ec-969a-5df7797efd79.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranitsawant80&label=Profile%20views&color=0e75b6&style=flat" alt="pranitsawant80" /> </p>
 
