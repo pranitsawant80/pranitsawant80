@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pranit.pravin.sawant@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16BgyBDway0LetEiGBZs1VcKOiZEapudi/view?usp=share_link](https://drive.google.com/file/d/16BgyBDway0LetEiGBZs1VcKOiZEapudi/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fKZO06ShsJZWubO-aOAYYAeaYRlHzXw3/view?usp=share_link](https://drive.google.com/file/d/1fKZO06ShsJZWubO-aOAYYAeaYRlHzXw3/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
