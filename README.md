@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SQL for Data Science(online course)**
 
-- 📫 How to reach me **pranit.pravin.sawant@gmail.com**
+- 📫 How to reach me **pranitsawant6998@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fKZO06ShsJZWubO-aOAYYAeaYRlHzXw3/view?usp=share_link](https://drive.google.com/file/d/1fKZO06ShsJZWubO-aOAYYAeaYRlHzXw3/view?usp=share_link)
 
