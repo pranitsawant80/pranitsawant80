@@ -3,8 +3,6 @@
 <h3 align="center">An aspiring Data Scientist form India.</h3>
 
 <img src="https://user-images.githubusercontent.com/94974771/229355947-bf68b0ec-6cd1-43ec-969a-5df7797efd79.png" align="right" alt="image" style="width:250px;height:250px;">
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranitsawant80&label=Profile%20views&color=0e75b6&style=flat" alt="pranitsawant80" /> </p>
 
 - 🌱 I’m currently learning **SQL for Data Science(online course)**
