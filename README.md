@@ -1,4 +1,4 @@
-![logo](https://github.com/pranitsawant80/pranitsawant80/blob/main/Bannerfile.webp)
+![logo](https://github.com/pranitsawant80/pranitsawant80/blob/main/Bannerfile..jpg)
 <h1 align="center">Hi 👋, I'm Pranit Sawant</h1>
 <h3 align="center">A Student of AI.</h3>
 
