@@ -58,8 +58,8 @@
 <p>
 
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pranitsawant80&show_icons=true&theme=ambient_gradient" alt="pranitsawant80" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pranitsawant80&show_icons=true&rank_icon=github&theme=ambient_gradient" alt="pranitsawant80" /></p>
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranitsawant80&layout=donut&langs_count=5&show_icons=true&theme=ambient_gradient" alt="pranitsawant80" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranitsawant80&layout=donut&langs_count=5&show_icons=true&rank_icon=github&theme=ambient_gradient" alt="pranitsawant80" /></p>
   
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pranitsawant80&theme=ambient_gradient" alt="pranitsawant80" /></p>
