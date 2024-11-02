@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pranit Sawant</h1>
 <h3 align="center">A Student of AI.</h3>
 
-<img src="https://user-images.githubusercontent.com/94974771/229355947-bf68b0ec-6cd1-43ec-969a-5df7797efd79.png" align="right" alt="image" style="width:250px;height:250px;">
+<img src="https://github.com/pranitsawant80/pranitsawant80/blob/main/manimage.jpeg" align="right" alt="image" style="width:250px;height:250px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranitsawant80&label=Profile%20views&color=0e75b6&style=flat" alt="pranitsawant80" /> </p>
 
 - 🌱 I’m currently working in the field of  **GenAI**
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/pranit sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranit sawant" height="30" width="40" /></a>
 <a href="https://kaggle.com/pranit pravin sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranit pravin sawant" height="30" width="40" /></a>
-<a href="https://instagram.com/pranitsawant80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranitsawant80" height="30" width="40" /></a>
+<a href="https://instagram.com/pranitsawant98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranitsawant98" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pranitsawant80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranitsawant80" height="30" width="40" /></a>
 </p>
 
