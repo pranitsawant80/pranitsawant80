@@ -105,21 +105,6 @@ AI Engineer with **2+ years** of hands-on experience delivering **production-gra
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
----
-
-## 🎓 Education & Certifications
-
-**M.Sc. Data Science** — Vellore Institute of Technology, India
-
-| Certification | Provider |
-|---|---|
-| AI Agents with MCP (Model Context Protocol) and A2A | LinkedIn Learning |
-| Build AI Agents and Chatbots with LangGraph | LinkedIn Learning |
-| Prompt Engineering for Developers | DeepLearning.AI |
-| GenAIOps Foundations | LinkedIn Learning |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
