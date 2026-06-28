@@ -1,65 +1,102 @@
-![logo](https://github.com/pranitsawant80/pranitsawant80/blob/main/Bannerfile..jpg)
-<h1 align="center">Hi 👋, I'm Pranit Sawant</h1>
-<h3 align="center">A Student of AI.</h3>
+<div align="center">
+  <img src="https://github.com/pranitsawant80/pranitsawant80/blob/main/Bannerfile..jpg" alt="Banner" width="100%" />
+</div>
 
-<img src="https://github.com/pranitsawant80/pranitsawant80/blob/main/manimage.jpeg" align="right" alt="image" style="width:250px;height:250px;">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranitsawant80&label=Profile%20views&color=0e75b6&style=flat" alt="pranitsawant80" /> </p>
+<br/>
 
-- 🌱 I’m currently working in the field of  **GenAI**
+<div align="center">
+  <h1>Hey there, I'm Pranit Sawant 👋</h1>
+  <h3>Exploring the frontiers of Generative AI & Machine Learning</h3>
+  <img src="https://komarev.com/ghpvc/?username=pranitsawant80&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+</div>
 
-- 📫 How to reach me **pranitsawant6998@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🧑‍💻 About Me
+
+<img src="https://github.com/pranitsawant80/pranitsawant80/blob/main/manimage.jpeg" align="right" alt="Pranit Sawant" style="width:220px; height:220px; border-radius:12px; margin-left:20px;" />
+
+- 🎓 **Student of AI** — currently deep in the world of **Generative AI**
+- 🔭 Working on LLM-based applications, RAG pipelines, and AI agents
+- 🌱 Always learning — from transformers to deployment
+- 💬 Ask me about **Python, ML, GenAI, or cloud tools**
+- 📫 Reach me at **pranitsawant6998@gmail.com**
+
+<br clear="right"/>
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/pranit sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranit sawant" height="30" width="40" /></a>
-  <a href="https://kaggle.com/pranit pravin sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pranit pravin sawant" height="30" width="40" /></a>
-<a href="https://instagram.com/pranitsawant98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranitsawant98" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pranitsawant80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranitsawant80" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/pranitsawant80" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/pranitpravinsawant" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://instagram.com/pranitsawant98" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.hackerrank.com/pranitsawant80" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/> </a> 
-  
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> </a> 
-  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+---
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-    
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
-  
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-    
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
- 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+## 🛠️ Languages & Tools
 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-          
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Cloud & Infrastructure**
 
-<p>
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pranitsawant80&show_icons=true&rank_icon=github&theme=ambient_gradient" alt="pranitsawant80" />
+**Languages & Databases**
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranitsawant80&layout=donut&langs_count=5&show_icons=true&rank_icon=github&theme=ambient_gradient" alt="pranitsawant80" /></p>
-  
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pranitsawant80&theme=ambient_gradient" alt="pranitsawant80" /></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**ML / AI Libraries**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**GenAI & LLM Tools**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranitsawant80&show_icons=true&rank_icon=github&theme=ambient_gradient&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranitsawant80&layout=donut&langs_count=5&theme=ambient_gradient&hide_border=true" alt="Top Languages" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranitsawant80&theme=ambient_gradient&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranitsawant80&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <i>"The best way to predict the future is to build it."</i>
+</div>
