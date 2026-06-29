@@ -15,7 +15,7 @@
 
 ## 👤 About Me
 
-<img src="https://github.com/pranitsawant80/pranitsawant80/blob/main/manimage.jpeg" align="right" alt="Pranit Sawant" width="200" style="border-radius:10px; margin-left:16px;" />
+<img src="https://github.com/pranitsawant80/pranitsawant80/blob/main/developer.png" align="right" alt="Pranit Sawant" width="200" style="border-radius:10px; margin-left:16px;" />
 
 AI Engineer with **2+ years** of hands-on experience delivering **production-grade Generative AI, Agentic AI, and cloud-native ML systems** across healthcare, enterprise document intelligence, and multimodal analytics — for clients in the **USA, Germany, and India**.
 
