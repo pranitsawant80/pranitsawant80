@@ -105,6 +105,8 @@ AI Engineer with **2+ years** of hands-on experience delivering **production-gra
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -123,19 +125,18 @@ AI Engineer with **2+ years** of hands-on experience delivering **production-gra
 
 <div align="center">
   <img
-    src="[https://streak-stats.demolab.com?user=pranitsawant80&theme=ambient_gradient&hide_border=true](https://streak-stats.demolab.com?user=pranitsawant80)"
+    src="https://streak-stats.demolab.com?user=pranitsawant80&theme=ambient_gradient&hide_border=true"
     alt="GitHub Streak"
   />
 </div>
 
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranitsawant80&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" alt="Trophies" />
-</div>
-
----
-
-<div align="center">
-  <i>🤝 Always open to connecting with professionals working in Generative AI, Agentic AI, Enterprise AI, and AI Product Development.</i>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=pranitsawant80&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1"
+    alt="GitHub Trophies"
+  />
 </div>
