@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=0&color=007BFF&center=true&vCenter=true&multiline=true&width=800&height=100&repeat=false&lines=Building+intelligent+systems;that+solve+real-world+business+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=0&color=007BFF&center=true&vCenter=true&multiline=true&width=800&height=100&repeat=false&lines=Building+intelligent+systems;that+solve+real-world+business+problems" alt="Typing SVG" />
 </div>
 
 ## 👤 About Me
