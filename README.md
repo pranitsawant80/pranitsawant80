@@ -109,8 +109,7 @@ AI Engineer with **2+ years** of hands-on experience delivering **production-gra
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranitsawant80&show_icons=true&rank_icon=github&theme=ambient_gradient&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranitsawant80&layout=donut&langs_count=5&theme=ambient_gradient&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=pranitsawant80&layout=donut&langs_count=5&theme=ambient_gradient&hide_border=true&cache_seconds=86400](https://github.com/DenverCoder1/github-readme-streak-stats)" alt="Top Languages" height="165" />
 </div>
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pranitsawant80&theme=ambient_gradient&hide_border=true)](https://git.io/streak-stats)
