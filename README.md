@@ -5,13 +5,8 @@
 <br/>
 
 <div align="center">
-  <h1>Pranit Sawant</h1>
-  <h3>AI Engineer · Agentic AI · LLMs · RAG · MLOps</h3>
-  <p><em>Building intelligent systems that solve real-world business problems</em></p>
-  <img src="https://komarev.com/ghpvc/?username=pranitsawant80&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=0&color=007BFF&center=true&vCenter=true&multiline=true&width=800&height=100&repeat=false&lines=Building+intelligent+systems;that+solve+real-world+business+problems" alt="Typing SVG" />
 </div>
-
----
 
 ## 👤 About Me
 
