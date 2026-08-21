@@ -104,11 +104,6 @@ AI Engineer with **2+ years** of hands-on experience delivering **production-gra
 ## 📊 GitHub Stats
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
-## 💻 Most Used Languages
-<div align="center">
-  <img src="./profile-summary-card-output/default/2_most_commit_language.svg" alt="Top Languages" />
-</div>
-
 ## 👀 Profile Views
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pranitsawant80&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
