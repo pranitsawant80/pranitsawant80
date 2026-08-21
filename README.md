@@ -107,35 +107,9 @@ AI Engineer with **2+ years** of hands-on experience delivering **production-gra
 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://streak-stats.demolab.com?user=pranitsawant80"
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
----
-
-## 📈 Contribution Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranitsawant80&theme=react-dark&hide_border=true" alt="Activity Graph" width="90%" />
-</div>
-
----
 ## 👀 Profile Views
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pranitsawant80&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
-
----
-## 🏆 GitHub Trophies
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=pranitsawant80&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1"
-    alt="GitHub Trophies"
-  />
-</div>
-
-
