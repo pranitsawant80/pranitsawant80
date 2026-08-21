@@ -109,10 +109,11 @@ AI Engineer with **2+ years** of hands-on experience delivering **production-gra
 ## 📊 GitHub Stats
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=pranitsawant80&theme=ambient_gradient&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=pranitsawant80"
     alt="GitHub Streak"
   />
 </div>
+
 ---
 
 ## 📈 Contribution Activity Graph
