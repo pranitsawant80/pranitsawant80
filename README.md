@@ -108,23 +108,33 @@ AI Engineer with **2+ years** of hands-on experience delivering **production-gra
 
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranitsawant80&show_icons=true&rank_icon=github&theme=ambient_gradient&hide_border=true&cache_seconds=86400" alt="GitHub Stats" height="165" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranitsawant80&layout=donut&langs_count=5&theme=ambient_gradient&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranitsawant80&layout=donut&langs_count=5&theme=ambient_gradient&hide_border=true&cache_seconds=86400" alt="Top Languages" height="165" />
 </div>
-
 <br>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pranitsawant80&theme=ambient_gradient&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranitsawant80&theme=react-dark&hide_border=true" alt="Activity Graph" width="90%" />
+</div>
 
+---
+## 👀 Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranitsawant80&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</div>
+
+---
+## 🏆 GitHub Trophies
 <div align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=pranitsawant80&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1"
     alt="GitHub Trophies"
   />
 </div>
+
+
