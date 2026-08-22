@@ -1,34 +1,37 @@
-name: Update language cards
+name: Update language stats
 
 on:
   schedule:
-    - cron: "0 4 * * *"
-
+    - cron: "30 3 * * *" # Every day at 03:30 UTC
   push:
     paths:
-      - ".github/workflows/language-cards.yml"
-
+      - ".github/workflows/language-stats.yml"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ github.token }}
-          ref: main
 
-      - name: Update language cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: main
-          EXCLUDE: ""
+      - name: Generate language stats
+        run: |
+          mkdir -p profile
+          curl -L \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&langs_count=10&hide_progress=true&theme=default" \
+            -o profile/languages.svg
+
+      - name: Commit language stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/languages.svg
+
+          git diff --cached --quiet || git commit -m "Update language stats"
+
+          git push
