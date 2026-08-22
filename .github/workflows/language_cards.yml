@@ -11,6 +11,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
@@ -21,8 +22,9 @@ jobs:
       - name: Generate language stats
         run: |
           mkdir -p profile
+
           curl -L \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&langs_count=10&hide_progress=true&theme=default" \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=default" \
             -o profile/languages.svg
 
       - name: Commit language stats
