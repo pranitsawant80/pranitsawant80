@@ -2,7 +2,7 @@ name: Update language stats
 
 on:
   schedule:
-    - cron: "30 3 * * *" # Every day at 03:30 UTC
+    - cron: "30 3 * * *"
 
   push:
     paths:
@@ -19,15 +19,15 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
-      - name: Generate language stats
-        run: |
-          mkdir -p profile
-
-          curl -L \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=default" \
-            -o profile/languages.svg
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=default
+          path: profile/languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit language stats
         run: |
