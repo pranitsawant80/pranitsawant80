@@ -104,8 +104,8 @@ AI Engineer with **2+ years** of hands-on experience delivering **production-gra
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-  <img src="./profile/languages.svg" alt="Top Languages" />
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width="410" height="180" style="object-fit: contain;" /></a>
+  <img src="./profile/languages.svg" alt="Top Languages" width="410" height="180" style="object-fit: contain;" />
 </p>
 
 ## 👀 Profile Views
