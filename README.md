@@ -14,33 +14,11 @@
 
 AI Engineer with **2+ years** of hands-on experience delivering **production-grade Generative AI, Agentic AI, and cloud-native ML systems** across healthcare, enterprise document intelligence, and multimodal analytics — for clients in the **USA, Germany, and India**.
 
-- 🤖 Specializing in **Agentic AI, Multi-Agent Systems, LLMs & RAG**
+- 🤖 Specializing in **Agentic AI, Multi-Agent Systems & RAG**
 - ☁️ Building on **Azure AI** and **GCP Vertex AI**
-- 🔧 Architecting with **LangGraph, LangChain, MCP, FastAPI**
-- 📄 Expert in **Intelligent Document Processing & NL2SQL**
 - 🏆 Most Valuable Player Award · Employee of the Year Award
-- 📫 **pranitsawant6998@gmail.com**
 
 <br clear="right"/>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/pranitsawant80" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/pranitpravinsawant" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/pranitsawant80" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/pranitsawant98" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -100,6 +78,26 @@ AI Engineer with **2+ years** of hands-on experience delivering **production-gra
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/pranitsawant80" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/pranitpravinsawant" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/pranitsawant80" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="mailto:pranitsawant6998@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-007BFF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
@@ -107,6 +105,8 @@ AI Engineer with **2+ years** of hands-on experience delivering **production-gra
   <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width="410" height="180" style="object-fit: contain;" /></a>
   <img src="./profile/languages.svg" alt="Top Languages" width="410" height="180" style="object-fit: contain;" />
 </p>
+
+---
 
 ## 👀 Profile Views
 <div align="center">
