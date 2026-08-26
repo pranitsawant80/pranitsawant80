@@ -31,7 +31,7 @@ AI Engineer with **2+ years** of hands-on experience delivering **production-gra
 | 📄 Document Intelligence | Azure Document Intelligence, OCR, Structured Extraction (260+ field types) |
 | 💬 Conversational AI | NL2SQL, Chatbot Pipelines, Conversational Analytics |
 | 👁️ Multimodal AI | Gemini Vision, Video Analytics, CCTV Intelligence, OpenCV |
-| ☁️ Cloud & MLOps | Azure AI, GCP Vertex AI, Docker, Kubernetes, CI/CD |
+| ☁️ Cloud & MLOps | Azure AI, AWS, GCP Vertex AI, Docker, Kubernetes, CI/CD |
 
 ---
 
