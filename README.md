@@ -12,7 +12,7 @@
 
 <img src="https://github.com/pranitsawant80/pranitsawant80/blob/main/developer.png" align="right" alt="Pranit Sawant" width="200" style="border-radius:10px; margin-left:16px;" />
 
-AI Engineer with **3 years** of hands-on experience delivering **production-grade Generative AI, Agentic AI, and cloud-native ML systems** across healthcare, enterprise document intelligence, and multimodal analytics — for clients in the **USA, Germany, and India**.
+AI Engineer with **2+ years** of hands-on experience delivering **production-grade Generative AI, Agentic AI, and cloud-native ML systems** across healthcare, enterprise document intelligence, and multimodal analytics — for clients in the **USA, Germany, and India**.
 
 - 🤖 Specializing in **Agentic AI, Multi-Agent Systems & RAG**
 - ☁️ Building on **Azure AI** and **GCP Vertex AI**
